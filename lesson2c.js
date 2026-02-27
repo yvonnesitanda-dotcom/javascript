@@ -1,5 +1,5 @@
 // If conditional statements
-// It is used in the control flow executionof programmes
+// It is used in the control flow execution of programmes
 // It executes a block of code if a condition is true otherqise the else block executes
 
 
