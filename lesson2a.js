@@ -20,7 +20,7 @@ console.log(typeof(person))
 
 //An array : This refers to a collection of items that are on indexes
 let fruits= ["Mango", "Pineapple", "Apple", "Banana", "Melon", " Lemon", "Grapes"]
-
+fruits.unshift("berries")
 console.log("The entire array of fruits is;", fruits)
 // To access the items of an array we use the index
 console.log(fruits[3])

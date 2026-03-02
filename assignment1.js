@@ -2,12 +2,15 @@ let distance= 12
 if (distance<=100){
     console.log("You are to pay 5 USD")
 }
-else if(distance> 100 && distance<=500){
+else if(distance> 101 && distance<=500){
     console.log("You are to pay 10 USD")
 }
-else if( distance>500 && distance<= 1000){
+else if( distance>501 && distance<= 1000){
     console.log("You are to pay 20 USD")
 }
+else if (distance>=10001){
+    console.log("You are tpo pay 40 USD")
+}
 else{
-    console.log("You are to pay 40 USD")
+    console.log("ERROR")
 }
