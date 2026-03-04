@@ -13,3 +13,9 @@ greet();
     console.log("Welcome to the world of programming...")
 })();// self executing functions
 // RESEARCH:Where are they used?
+
+
+// Read on arrow function with and without parameters
+
+
+// Research on modules in Javascript

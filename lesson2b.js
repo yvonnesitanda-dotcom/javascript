@@ -24,9 +24,9 @@ console.log(x==y) // loose equality- value only
 // Logical AND(&&)- it evaluates to true if and only if all of the conditions/statements are true
 console.log((number1 < number2) && (number2> number1))&& (number3>number2)
 
-//logical OR(||) It evaluates to treus if one of the conditions is true.
+//logical OR(||) It evaluates to true if one of the conditions is true.
 console.log((number1 > number2)) ||
 (number2> number1)
 
-//Logical MOT (!) It is used to negate a condition/statement
+//Logical NOT (!) It is used to negate a condition/statement
 console.log(number1<number2) 

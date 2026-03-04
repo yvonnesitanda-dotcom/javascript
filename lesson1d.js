@@ -17,7 +17,7 @@ console.log("Is James an adult?",isAdult)
 console.log("Is he registered as a voter?", isRegistered)
 console.log(typeof(isAdult))
 
-// Undefined : This is a data type that has been declared but there is no value that has been assigned to it.
+// Undefined : This is a data type that has been declared but there is no value that has been assigned to it.The value can be something that has to be calculated, or something that will be provided later, like user input.
 let county;
 console.log("The county is:",county)
 

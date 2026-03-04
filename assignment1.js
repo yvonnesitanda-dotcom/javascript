@@ -1,4 +1,4 @@
-let distance= 12
+let distance= 78
 if (distance<=100){
     console.log("You are to pay 5 USD")
 }

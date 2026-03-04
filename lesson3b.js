@@ -40,3 +40,13 @@ console.log(userNames);
 // Output: ["Andrew", "Bob", "Charlie"]
 
 // check the tasks at page 30
+
+// Write a for loop to print all odd numbers from 1 to 19
+for (let odd=1; odd<=19 ; odd++){
+    if(odd%2==1){
+        console.log(odd)
+    }
+}
+
+console.log("===========================================")
+

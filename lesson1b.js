@@ -1,6 +1,7 @@
 // In Javascript,  you need to have an initializer for declaring a variable. In ES6 we have to main types of initialisers i.e:
 
 // let : It declares values which can be changed later on.
+// Variables are data containers/labels for data values
 
 
 let weight= 10.5
@@ -11,3 +12,5 @@ console.log(weight)
 
 const pi= 3.142
 console.log("The pi is:",pi)
+
+
